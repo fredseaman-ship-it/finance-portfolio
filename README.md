@@ -3,7 +3,7 @@
 **Economics and Finance student, applying for placements.**
 I learn by building. Each project below takes a real money problem, such as a student's cashflow or a startup's unit economics, and turns it into a working model with the assumptions and limits written down.
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR-EMAIL)
+[LinkedIn](https://www.linkedin.com/in/fred-seaman-979560297/) · [Email](mailto:F.seaman2@newcastle.ac.uk)
 
 ---
 
